@@ -1,7 +1,5 @@
 # 🎥 Social Media Comment Analyzer – Chrome Extension
 
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg) ![Build](https://img.shields.io/badge/status-Active-green)
-
 ## 🔍 Overview
 
 **Social Media Comment Analyzer** is a Chrome extension developed to help influencers extract meaningful insights from thousands of comments on their YouTube/Reddit videos. The tool performs **sentiment analysis**, **comment summarization**, **word cloud generation**, and more—enabling **data-driven content strategy**.
