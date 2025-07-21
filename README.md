@@ -50,3 +50,13 @@ With exportable reports in **PDF** and **CSV**, influencers can better understan
 git clone https://github.com/manishmaan11/SocialMedia_CommentAnalyzer_ChromePlugin.git
 cd SocialMedia_CommentAnalyzer_ChromePlugin
 
+### 2. Backend Setup
+
+```bash
+cd backend/
+python -m venv env
+source env/bin/activate  # On Windows: env\Scripts\activate
+pip install -r requirements.txt
+python app.py
+
+
